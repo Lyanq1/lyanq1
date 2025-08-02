@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ## <h1 align="center">Hi 👋, I'm Lý Anh Quân</h1>
 <h3 align="center">Not a developer you need</h3>
 
-- 🔭 I’m currently working on Full-stack development
-- 🌱 I’m currently learning AI agents
+- 🔭 I’m currently a student at University of Science – HCMUS.
+- 🌱 I’m currently learning AI agents and Full-stack development
 - 👯 I’m looking to collaborate on build-in-public
 - 🤔 I’m looking for help with web-development
 - ⚡ Fun fact: Aura farming in this field
